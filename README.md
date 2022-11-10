@@ -4,6 +4,11 @@
 
 On opening the report, the following three pages will be available for viewing: High-level Metrics, Device Monitoring, and Device Registration. Please refer to the rest of the document for more information on each page as well as the use of filtering.
 
+*High-Level Metrics:*
+This page is all about showing the most important data needed. 
+1.  The key influencer visual describe how time affects a devices status
+The rest of the visuals are self explanitory and require no explenation.
+
 
 *Device Monitoring:*
 This page is all about monitoring the devices with the following three visualizations:
